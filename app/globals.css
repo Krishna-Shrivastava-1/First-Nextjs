@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+html,body{
+  background: radial-gradient(circle at top left, rgb(1, 18, 54), black,rgb(1, 18, 54));
+  height: 400vh;
+  color: white;
+}
